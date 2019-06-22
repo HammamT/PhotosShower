@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string-array name="options">
+        <item>Open Galary</item>
+        <item>Camera</item>
+        <item>DownLoad Photo</item>
+    </string-array>
+</resources>
